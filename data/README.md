@@ -4,3 +4,4 @@
 - `iris` (unknown source)
 - `spam` (created manually)
 - `world_population` (by Sourav Banerjee on [kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset))
+- `wine_quality` (by Stefan Aeberhard on [UCI](https://archive.ics.uci.edu/dataset/109/wine))
