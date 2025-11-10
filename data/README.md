@@ -3,5 +3,6 @@
 - `hoda-dataset-reader` (by Amir Saniyan on [GitHub](https://github.com/amir-saniyan/HodaDatasetReader))
 - `iris` (unknown source)
 - `spam` (created manually)
+- `tweets` (by Hafidh Fikri on [GitHub](https://github.com/hafidhfikri/Practice-Twitter-Sentiment-Analysis))
 - `world_population` (by Sourav Banerjee on [kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset))
 - `wine_quality` (by Stefan Aeberhard on [UCI](https://archive.ics.uci.edu/dataset/109/wine))
